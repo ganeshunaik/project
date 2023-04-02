@@ -1,1 +1,2 @@
-# CI-CD project
+# CI-CD PROJECT
+#django to-do app deployment
